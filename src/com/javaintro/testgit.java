@@ -6,6 +6,7 @@ public class testgit {
 		String cars[]= {"Benz", "BMW", "Volvo","Audi"};
 		for(String car:cars) {
 			System.out.println(car);
+			
 		}
 	}
 
